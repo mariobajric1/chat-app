@@ -42,7 +42,7 @@ function Sidebar({ rooms }) {
 	return (
 		<div className="sidebar">
 			<div className="sidebar__header">
-				<Avatar src="https://lh3.googleusercontent.com/a-/AOh14GgQZUjXL0EpiHIUj8e0wTxaToAprFJWKe7AFOHDHA=s88-c-k-c0x00ffffff-no-rj-mo" />
+				<Avatar src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed991cf4-7c8c-4530-b6ba-a3abf3ab2eae/dcl44cw-02dee5f4-c22d-43ce-99d3-5184ab514e81.png/v1/fill/w_600,h_679,strp/super_mario__yoshi_icon_2d_by_joshuat1306_dcl44cw-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02NzkiLCJwYXRoIjoiXC9mXC9lZDk5MWNmNC03YzhjLTQ1MzAtYjZiYS1hM2FiZjNhYjJlYWVcL2RjbDQ0Y3ctMDJkZWU1ZjQtYzIyZC00M2NlLTk5ZDMtNTE4NGFiNTE0ZTgxLnBuZyIsIndpZHRoIjoiPD02MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ZN4NY6XTNnDkPwE_514KlVEVoUyskzOhG_FaKxGvAwo" />
 				<div className="sidebar__headerRight">
 					<IconButton>
 						<DonutLargeIcon />
