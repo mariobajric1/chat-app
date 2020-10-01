@@ -1,5 +1,5 @@
 export const initialState = {
-	room: "",
+	room: "Initial Chat",
 };
 
 // Selector
